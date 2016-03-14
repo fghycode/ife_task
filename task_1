@@ -1,0 +1,100 @@
+<!DOCTYPE>
+<html>
+<head lang="en">
+     <meta charset="UTF-8">
+	<title>First Task</title>
+</head>
+	<body>
+		<h1>第一次任务</h1>
+		<ul>
+			<li><a href="#">导航1</a></li>
+			<li><a href="#">导航2</a></li>
+			<li><a href="#">导航3</a></li>
+			<li><a href="#">导航4</a></li>
+		</ul>
+		<h2>人生若只如初见</h2>
+		<h3>何事秋风悲画扇</h3>
+		<p>作者：远浅 2016-01-29 08:53</p><br/>
+		<p>人生若只如初见，何事秋风悲画扇。一句千年不变的凄怨，抒写了几个世纪的遗憾。一息比历史更久远，比时间更永恒的记忆，卸下了前世错过的遗憾，留给后世不变的情缘。
+
+　　 总是喜欢怀念，总是喜欢执笔轻写灵魂深处如梦似幻的思念，怀念的是过去，过去叫做记忆，忘不掉的记忆，我们叫做永恒；<a href="http://ife.baidu.com" target="_blank">爱到深处，覆水难收.</a>情至深处无处可消愁，至此逃离于过往，陷身于流年里的忧伤，忘不掉挥不去，且又把它当做是一场永恒吧。记得曾经轻倚我伞下的你，凝眸一瞬，便幻影了我前世今生。只是，同样的季节，没有你在身旁，我忘记了打伞。那一幕，就成了永恒的风景一篇。
+
+　　 轻叩记忆的门环，找寻着丢失在梦里的飘散灵魂；轻盈的晚风，摇曳着记忆双手里不曾隐去的忧伤；在这如梦如幻的季节，是谁依然在轻思浅念？北风剪去的碎影，是谁在执着的期盼？
+
+　　 轻烟飘渺，淡水微波，吾在真实与虚幻中挣扎，徘徊在梦与醒的边缘。岁月之手，却是永远的，将我束缚于远方。独自一人的飘零，随波逐流的感情，不知疲倦的旅程，这些就是命运之神对我的眷念。只是我忘了珍惜。</p><br/>
+     <img src="001.jpg"><br/>
+     <h2>人生之杂谈</h2>
+     <h3>时间</h3>
+     <p>作者：朱红出 2016-01-29 08:53</p><br/>
+     <p>时间，又到了凌晨，躺在床上，电风扇的声音咆哮着，而我却能清楚的感觉到，人世间的繁华如此安静。
+
+　　时常在想，如果时间从这一秒结束，或许我可以开始期待，新的日出。我不需要别人好心的提醒我，我知道我目前的处境，我也明白我此刻的自我沉醉。确切的说，这种感觉只是一种麻木，我不想战胜任何的弊病，我允许自我稍稍的放松，因为，一切都在我意识的控制中。
+
+　　请相信我，我不是一个控制狂，对于那些君临天下的政治骗子，我所能做的，<a href="http://ife.baidu.com" target="_blank">就是尽量让自己变得真实一些。</a>就是尽量让自己变得真实一些。虽然我不能靠近他们，但我能在每个荧幕上看出那些虚假的剧情。我想，他们在说完这句或者那句话后，他们应该对着光鲜的镜面哭了。千万别轻易相信那些眼泪，眼泪于他们而言，仅仅是自我感动后的情感排泄物。</p>
+     <img src="001.jpg"><br/>
+     <ul>
+     	<li>列表项目1</li>
+     	<li>列表项目2</li>
+     	<li>列表项目3</li>
+     </ul>
+     <h2>图片</h2>
+        <p>好看的图片</p>
+        <img src="001.jpg" alt="tree"/>
+        <p>好看的图片</p>
+        <img src="001.jpg" alt="tree"/>
+        <p>好看的图片</p>
+        <img src="001.jpg" alt="tree"/>
+        <p>好看的图片</p>
+        <img src="001.jpg" alt="tree"/>
+     <h2>远方</h2>
+     <h3>走着走着，我醒了</h3>
+     <p>作者：何学明 2016-01-29 08:53</p><br>
+     <ol>
+     	<li>排名1</li>
+     	<li>排名2</li>
+     	<li>排名3</li>
+     </ol>
+     <table border="1">
+     	<tr>
+     		<td>表头</td>
+     		<td>表格</td>
+     		<td>表格</td>
+     	</tr>
+     	<tr>
+     		<td>表头</td>
+     		<td>表格</td>
+     		<td>表格</td>
+     	</tr>
+     </table>
+     	<h2>这里以后是一个侧栏，这是侧栏标题</h2>
+     	<h3>侧栏注册窗口标题</h3>
+     	<form>
+     		请输入邮箱地址：
+     		<input type="text" name="mail">
+     		<p>邮箱地址请按要求格式输入</p>
+     		请输入密码：
+     		<input type:"text" name="password">
+     		请重复输入密码：
+     		<input type="text" name="password">
+     		<p>密码请为6-16位英文数字</p>
+     		性别：
+     		<input type="radio" name="sex" value="男">
+     		<input type="radio" name="sex" value="女">
+     		城市：
+     		<select name="city">
+     			<option value="武汉">武汉</option>
+     			<option value="北京" selected="selected">北京</option>
+     			<option value="天津">天津</option>
+     			<option value="上海">上海</option>
+     		</select>
+     		爱好：
+     		<input type="checkbox" name="sport">运动
+     		<input type="checkbox" name="art">艺术
+     		<input type="checkbox" name="scince">科学
+     		个人描述：
+     		<input type="text" name="content">
+     		<input type="submit" value="确认提交">
+            <p>版权所有&copy</p>
+     	</form>
+	</body>
+</html>
